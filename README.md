@@ -1,0 +1,2 @@
+# MagineLux
+ Magine Lux juego 
